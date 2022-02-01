@@ -107,3 +107,5 @@ dist
 .stylelintcache
 # SvelteKit build / generate output
 .svelte-kit
+# ignore commit message
+.gitcommit
