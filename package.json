@@ -15,7 +15,7 @@
     "express",
     "jwt"
   ],
-  "author": "CasjaysDev <node-admin@casjaysdev.com>",
+  "author": "CasjaysDev <node-admin@casjaysdev.pro>",
   "license": "ISC",
   "dependencies": {
     "@types/cookie-session": "^2.0.43",
